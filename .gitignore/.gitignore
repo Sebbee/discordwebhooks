@@ -1,6 +1,6 @@
 echo "# discordwebhooks" >> README.md
 git init
 git add README.md
-git commit -m "I am God."
+git commit -m "first commit"
 git remote add origin https://github.com/Sebbee/discordwebhooks.git
 git push -u origin master
